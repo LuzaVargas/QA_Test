@@ -1,0 +1,4 @@
+[
+  "tests/test_search.py::test_click_first_result",
+  "tests/test_search.py::test_google_search"
+]
